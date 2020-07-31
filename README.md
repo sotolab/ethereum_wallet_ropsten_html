@@ -5,7 +5,6 @@ See LICENSE file. Mozilla Public License 2.0
 
 
 # Start
-Author : Soto Jang (soto1935@gmail.com)
 
 https://github.com/dappuniversity/web3_examples
 
